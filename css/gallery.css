@@ -1,3 +1,8 @@
+body {
+  min-height: 100vh;
+  font-family: 'Noto Serif TC', serif;
+}
+
 /* ============= navbar =============== */
 .navbar-brand span{
     color: white;
@@ -41,7 +46,12 @@
 
 /*==========background video============*/
 
-
+/*============  大標 ===============*/
+.container header{
+  color: aliceblue;
+  font-weight: bold;
+}
+/*============  大標 ===============*/
 /*==========活動紀錄gallery============*/
 
 .caption-1 figcaption {
