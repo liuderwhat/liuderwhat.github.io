@@ -87,11 +87,11 @@ figure img{
     display: none;
 }
 
-
 /*==========幻燈秀============*/
   
   body {
     min-height: 100vh;
+    font-family: 'Noto Serif TC', serif;
   }
   
   .border-md {
