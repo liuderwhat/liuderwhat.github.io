@@ -102,7 +102,7 @@ body{
   .sizer {
     margin: 20%;
   } 
-  .col-lg-6 img {
+  .card img{
     max-height: 25vw;
   }
 }
