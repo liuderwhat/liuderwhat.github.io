@@ -101,7 +101,10 @@ body{
 @media (min-width: 994px) {
   .sizer {
     margin: 20%;
-  }  
+  } 
+  .col-lg-6 img {
+    max-height: 25vw;
+  }
 }
 
 /*============= 網頁尾端 =====================*/

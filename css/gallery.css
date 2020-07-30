@@ -51,6 +51,9 @@ body {
   color: aliceblue;
   font-weight: bold;
 }
+header h1,p{
+  font-family: 'Noto Serif TC', serif;
+}
 /*============  大標 ===============*/
 /*==========活動紀錄gallery============*/
 
